@@ -68,7 +68,12 @@ def converter():
 
 # Configurando frame_cima
 
-icon = Image.open('images/icons8-money-50.png')
+import os
+
+base_dir = os.path.dirname(__file__)
+caminho_imagem = os.path.join(base_dir, 'images', 'icons8-money-50.png')
+
+icon = Image.open(caminho_imagem)
 icon = icon.resize((40, 40), Image.LANCZOS)
 icon = ImageTk.PhotoImage(icon)
 
