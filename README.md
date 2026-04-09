@@ -60,3 +60,9 @@ python nome_do_arquivo.py
 
 * Adicionar mais moedas
 * Melhorar o design da interface
+
+  ## 📸 Preview
+
+<p align="center">
+  <img src="conversor.png" width="400">
+</p>
