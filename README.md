@@ -64,5 +64,5 @@ python nome_do_arquivo.py
   ## 📸 Preview
 
 <p align="center">
-  <img src="conversor.png" width="400">
+  <img src="https://github.com/fernandoflorenciodev/conversor-de-moedas-python-tkinter/blob/main/images/conversor.png" width="400">
 </p>
