@@ -41,13 +41,6 @@ cd conversor-de-moedas-python-tkinter
 pip install requests
 ```
 
-### 4. Execute o programa
-
-```
-python nome_do_arquivo.py
-```
-
----
 
 ##  Observações
 
